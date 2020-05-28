@@ -9,9 +9,9 @@ www.littleeaglephoto.com
 ### `npm start`
 
 Runs the app in the development mode.<br>
-Default is [http://localhost:3001](http://localhost:3001) to view it in the browser.<br>
+Default is [http://localhost:3002](http://localhost:3002) to view it in the browser.<br>
 Change PORT in .env file.
 
-### `npm build`
+### `npm run build`
 
-Builds app the app for production use.<br>
+Creates an optimized production build.<br>
