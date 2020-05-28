@@ -25,12 +25,12 @@ const content = {
   ],
   projects: [
     {
-      src: `${imgUrl}/gallery/projects/chill-vibez-battles/img0.jpg`,
+      src: `${imgUrl}/projects/chill-vibez-battles/img0.jpg`,
       title: 'Chill Vibez Battles',
       url: '/gallery/projects/chill-vibez-battles'
     },
     {
-      src: `${imgUrl}/gallery/projects/supeus-case-study/img0.jpg`,
+      src: `${imgUrl}/projects/supeus-case-study/img0.jpg`,
       title: 'Supeus Case Study',
       url: '/gallery/projects/supeus-case-study'
     }
