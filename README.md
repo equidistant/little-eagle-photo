@@ -1,17 +1,25 @@
-## Little Eagle Photography Website
+## Little Eagle Photography
 
-Website showcasing justified grid and swipeable slideshow.
+Professional photography website.<br>
+Features custom made justified paginated swipeable gallery.
+Images are now loaded from aws s3 server.
 
-### Live preview
+### Live Preview
 
-www.littleeaglephoto.com
+www.leagle.mislav.host
+
+### Config
+
+Create .env file with following variables:
+
+PORT (optional, default is 3000)<br>
+REACT_APP_IMG_URL (mandatory, base url to http server with images)
 
 ### `npm start`
 
-Runs the app in the development mode.<br>
-Default is [http://localhost:3002](http://localhost:3002) to view it in the browser.<br>
-Change PORT in .env file.
+Runs app in development mode.<br>
+Default is [http://localhost:3000](http://localhost:3000).<br>
 
 ### `npm run build`
 
-Creates an optimized production build.<br>
+Creates an optimized production build.
